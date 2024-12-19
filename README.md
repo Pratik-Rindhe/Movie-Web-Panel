@@ -1,2 +1,2 @@
-# nimap-infotech-machine-test-reactjs
+Movie-Web-Panel using reactjs
 Created with CodeSandbox
